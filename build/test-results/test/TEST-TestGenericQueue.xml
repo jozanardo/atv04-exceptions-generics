@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests for Queue" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-08-09T02:06:25" hostname="DESKTOP-HEP0FRQ" time="0.007">
+  <properties/>
+  <testcase name="testEnqueue()" classname="TestGenericQueue" time="0.001"/>
+  <testcase name="testInvalidCapacity()" classname="TestGenericQueue" time="0.0"/>
+  <testcase name="testClear()" classname="TestGenericQueue" time="0.0"/>
+  <testcase name="testNullQueueIsFull()" classname="TestGenericQueue" time="0.0"/>
+  <testcase name="testNullQueueIsEmpty()" classname="TestGenericQueue" time="0.001"/>
+  <testcase name="testFullQueueOnEnqueue()" classname="TestGenericQueue" time="0.001"/>
+  <testcase name="testDequeue()" classname="TestGenericQueue" time="0.0"/>
+  <testcase name="testIsFull()" classname="TestGenericQueue" time="0.001"/>
+  <testcase name="testIsEmpty()" classname="TestGenericQueue" time="0.001"/>
+  <testcase name="testStringQueue()" classname="TestGenericQueue" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

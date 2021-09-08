@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.42">
+<file name="C:\Users\João Zanardo\atv04-exceptions-generics-jozaza2k20\src\main\java\ArraysUtil.java">
+</file>
+<file name="C:\Users\João Zanardo\atv04-exceptions-generics-jozaza2k20\src\main\java\GenericDeque.java">
+</file>
+<file name="C:\Users\João Zanardo\atv04-exceptions-generics-jozaza2k20\src\main\java\GenericLinkedList.java">
+</file>
+<file name="C:\Users\João Zanardo\atv04-exceptions-generics-jozaza2k20\src\main\java\GenericQueue.java">
+</file>
+<file name="C:\Users\João Zanardo\atv04-exceptions-generics-jozaza2k20\src\main\java\GenericStack.java">
+</file>
+<file name="C:\Users\João Zanardo\atv04-exceptions-generics-jozaza2k20\src\main\java\ListEmptyException.java">
+</file>
+<file name="C:\Users\João Zanardo\atv04-exceptions-generics-jozaza2k20\src\main\java\Queue.java">
+</file>
+<file name="C:\Users\João Zanardo\atv04-exceptions-generics-jozaza2k20\src\main\java\QueueEmptyException.java">
+</file>
+<file name="C:\Users\João Zanardo\atv04-exceptions-generics-jozaza2k20\src\main\java\QueueFullException.java">
+</file>
+<file name="C:\Users\João Zanardo\atv04-exceptions-generics-jozaza2k20\src\main\java\Stack.java">
+</file>
+<file name="C:\Users\João Zanardo\atv04-exceptions-generics-jozaza2k20\src\main\java\StackEmptyException.java">
+</file>
+<file name="C:\Users\João Zanardo\atv04-exceptions-generics-jozaza2k20\src\main\java\StackFullException.java">
+</file>
+</checkstyle>

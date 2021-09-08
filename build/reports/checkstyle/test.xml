@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.42">
+<file name="C:\Users\João Zanardo\atv04-exceptions-generics-jozaza2k20\src\test\java\TestGenericDequeAsQueue.java">
+</file>
+<file name="C:\Users\João Zanardo\atv04-exceptions-generics-jozaza2k20\src\test\java\TestGenericDequeAsStack.java">
+</file>
+<file name="C:\Users\João Zanardo\atv04-exceptions-generics-jozaza2k20\src\test\java\TestGenericQueue.java">
+</file>
+<file name="C:\Users\João Zanardo\atv04-exceptions-generics-jozaza2k20\src\test\java\TestGenericStack.java">
+</file>
+<file name="C:\Users\João Zanardo\atv04-exceptions-generics-jozaza2k20\src\test\java\TestIsSorted.java">
+</file>
+<file name="C:\Users\João Zanardo\atv04-exceptions-generics-jozaza2k20\src\test\java\TestUtil.java">
+</file>
+</checkstyle>

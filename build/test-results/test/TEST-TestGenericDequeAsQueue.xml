@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests for Deque as a Queue" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-08-09T02:06:25" hostname="DESKTOP-HEP0FRQ" time="0.033">
+  <properties/>
+  <testcase name="testEnqueue()" classname="TestGenericDequeAsQueue" time="0.021"/>
+  <testcase name="testInvalidCapacity()" classname="TestGenericDequeAsQueue" time="0.003"/>
+  <testcase name="testClear()" classname="TestGenericDequeAsQueue" time="0.001"/>
+  <testcase name="testNullQueueIsFull()" classname="TestGenericDequeAsQueue" time="0.0"/>
+  <testcase name="testNullQueueIsEmpty()" classname="TestGenericDequeAsQueue" time="0.0"/>
+  <testcase name="testFullQueueOnEnqueue()" classname="TestGenericDequeAsQueue" time="0.001"/>
+  <testcase name="testDequeue()" classname="TestGenericDequeAsQueue" time="0.001"/>
+  <testcase name="testIsFull()" classname="TestGenericDequeAsQueue" time="0.003"/>
+  <testcase name="testIsEmpty()" classname="TestGenericDequeAsQueue" time="0.0"/>
+  <testcase name="testStringQueue()" classname="TestGenericDequeAsQueue" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

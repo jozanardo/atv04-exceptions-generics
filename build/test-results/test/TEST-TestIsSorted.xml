@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests for ArrayUtils.isSorted" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-08-09T02:06:25" hostname="DESKTOP-HEP0FRQ" time="4.821">
+  <properties/>
+  <testcase name="testUnsortedStrings()" classname="TestIsSorted" time="0.365"/>
+  <testcase name="testUnsortedInts()" classname="TestIsSorted" time="0.281"/>
+  <testcase name="testSortedInts()" classname="TestIsSorted" time="0.308"/>
+  <testcase name="testSortedDoubles()" classname="TestIsSorted" time="1.394"/>
+  <testcase name="testSortedStrings()" classname="TestIsSorted" time="1.352"/>
+  <testcase name="testUnsortedDoubles()" classname="TestIsSorted" time="1.12"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

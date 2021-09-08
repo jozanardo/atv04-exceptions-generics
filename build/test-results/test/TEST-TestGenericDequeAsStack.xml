@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests for Deque as a Stack" tests="12" skipped="0" failures="0" errors="0" timestamp="2021-08-09T02:06:25" hostname="DESKTOP-HEP0FRQ" time="0.011">
+  <properties/>
+  <testcase name="testPushPeek()" classname="TestGenericDequeAsStack" time="0.001"/>
+  <testcase name="testNullStackIsFull()" classname="TestGenericDequeAsStack" time="0.001"/>
+  <testcase name="testPop()" classname="TestGenericDequeAsStack" time="0.0"/>
+  <testcase name="testClear()" classname="TestGenericDequeAsStack" time="0.0"/>
+  <testcase name="testNullStackIsEmpty()" classname="TestGenericDequeAsStack" time="0.001"/>
+  <testcase name="testFullExceptionOnPush()" classname="TestGenericDequeAsStack" time="0.001"/>
+  <testcase name="testEmptyExceptionOnPeek()" classname="TestGenericDequeAsStack" time="0.001"/>
+  <testcase name="testEmptyExceptionOnPop()" classname="TestGenericDequeAsStack" time="0.001"/>
+  <testcase name="testIsEmpty()" classname="TestGenericDequeAsStack" time="0.001"/>
+  <testcase name="testStackIsFull()" classname="TestGenericDequeAsStack" time="0.001"/>
+  <testcase name="testExceptionOnInvalidCapacity()" classname="TestGenericDequeAsStack" time="0.001"/>
+  <testcase name="testStringStack()" classname="TestGenericDequeAsStack" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
